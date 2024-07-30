@@ -1,0 +1,6 @@
+[submodule "src/volume_list"]
+	path = src/volume_list
+	url = git@github.com:TopologicalKnotIndexer/volume_list.git
+[submodule "src/knotname-reg"]
+	path = src/knotname-reg
+	url = git@github.com:TopologicalKnotIndexer/knotname-reg.git
