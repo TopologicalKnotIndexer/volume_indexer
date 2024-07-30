@@ -17,3 +17,8 @@
   - 向标准输入流输入一个扭结的 PD_CODE 的 list of list 形式
   - 程序会将具有相似 volume 的所有扭结输出到标准输出
 
+
+
+## 依赖关系图
+
+![](./img/structure.png)
