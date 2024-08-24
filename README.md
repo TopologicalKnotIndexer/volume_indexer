@@ -6,8 +6,6 @@
 ## 前置条件
 
 - `python3`
-- `snappy`
-- `sage`
 
 
 
